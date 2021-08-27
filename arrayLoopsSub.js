@@ -69,3 +69,7 @@ for (let i = 0; i < 4; i++){
         }
     }
 }
+
+
+//Test
+console.log("Here is a test");
